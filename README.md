@@ -1,15 +1,7 @@
-## Wikipedia's Account Creation Tool interface
-[//]: # (TODO: Update badges with upstream url when merged)
-[![Build Status](https://travis-ci.org/enwikipedia-acc/waca.svg?branch=master)](https://travis-ci.org/enwikipedia-acc/waca)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/enwikipedia-acc/waca/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/enwikipedia-acc/waca/?branch=master)
-[![codecov.io](https://codecov.io/github/enwikipedia-acc/waca/coverage.svg?branch=master)](https://codecov.io/github/enwikipedia-acc/waca?branch=master)
+## Source Code Of FQC
 
-This is enwiki's ACC tool.
+This is FQC's Source Code
 
 ### Usage
+We are a platform based on food as the theme, with mutual benefit and common development as the foundation and achieving the goal of achieving mutual wealth.
 
-See [WP:ACC/G](http://enwp.org/WP:ACC/G)
-
-### Installation
-
-See INSTALLING
